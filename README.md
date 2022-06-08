@@ -2,7 +2,7 @@
 
 ## Intro
 
-This repository was created as a compilation of the minimal steps needed to create and run a Docker container of a Microsoft SQL Server (actually, )
+This repository was created as a compilation of the minimal steps needed to create and run a Docker container of a Microsoft SQL Server (precisely the azure-sql-edge distribution, compatible with Apple M1 Chip).
 
 ## Concepts
 
